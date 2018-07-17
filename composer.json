@@ -1,5 +1,5 @@
 {
-    "name": "lun/geohash",
+    "name": "sky/geohash",
     "type": "library",
     "description": "geohash package",
     "keywords": ["geohash"],
