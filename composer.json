@@ -1,5 +1,5 @@
 {
-    "name": "sky/geohash",
+    "name": "fnull/geohash",
     "type": "library",
     "description": "geohash package",
     "keywords": ["geohash"],
